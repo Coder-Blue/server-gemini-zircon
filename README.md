@@ -43,6 +43,7 @@
 - Bạn có thể sử dụng mặc định hoặc thực hiện một số tùy chỉnh nếu bạn muốn `fetch` theo cách riêng của bạn. Hãy tham khảo tài liệu về Google Gemini API tại đây: https://ai.google.dev/tutorials/node_quickstart
 
 - Thay vì tự thân bạn host thì bạn cũng có thể làm một repository trên trang Github của bạn với bản clone của repository này rồi truy cập Vercel qua tên miền https://vercel.com rồi làm theo hướng dẫn để Vercel host hộ bạn. 
+
 *Lưu ý: Host bằng Vercel có thể giám tốc độ phản hồi một chút*
 
 ## Hỗ trợ
