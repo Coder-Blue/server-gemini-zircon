@@ -14,7 +14,7 @@
 
 - Zircon sẽ nhận lệnh `GET` rồi trả ra một kết quả JSON để trả lời `chat` của người dùng thông qua các tác vụ của Google Gemnini API.
 
-- Google Gemini API là một API miễn phí nếu bạn sử dung phiên bản `gemini-1.0-pro`. Nếu bạn ở vùng quốc gia và lãnh thổ khác, hãy cân nhắc mình nằm trong vùng hỗ trợ, bằng không bạn sẽ phải sử dụng Google Vertex AI để thay thế.
+- Google Gemini API là một API miễn phí nếu bạn sử dụng phiên bản `gemini-1.0-pro`. Nếu bạn ở vùng quốc gia và lãnh thổ khác, hãy cân nhắc mình nằm trong vùng hỗ trợ, bằng không bạn sẽ phải sử dụng Google Vertex AI để thay thế.
 
 ## Hướng dẫn sử dụng
 - Truy cập https://aistudio.google.com/ để lấy cho mình `API Key` theo hướng dẫn của Google. Rồi tạo một file `.env` rồi dán `API Key` mà bạn được cung cấp bởi Google rồi dán vào `API-KEY-THAT-YOU-GOT` như hình ảnh sau:
