@@ -30,9 +30,11 @@
   npm start
 ```
 - Nó sẽ trông như thế này:
+
 ![NPMSTART](https://github.com/Coder-Blue/server-gemini-zircon/blob/main/screenshots/SC3.png?raw=true)
 
 - Và khi truy cập vào http://localhost:3080 bằng trình duyệt của bạn nó sẽ có dạng như thế này:
+
 ![BROWSER](https://github.com/Coder-Blue/server-gemini-zircon/blob/main/screenshots/SC2.png?raw=true)
 
 - Khi không muốn sử dụng thì bạn có thể sử dụng `CTRL + C` vào màn hình terminal của bạn.
