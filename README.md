@@ -2,7 +2,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Coder-Blue/server-gemini-zircon/blob/main/LICENSE)
 
 ## Gói cần thiết
-- NodeJS: 18+
+- NodeJS: 18+ - tải tại đây: https://nodejs.org/en/download
 
 ## Giới thiệu dự án
 - Đây là một sản phẩm phụ trách mảng backend của ứng dụng web Zircon.
