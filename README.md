@@ -1,5 +1,9 @@
 # Zircon Google Gemini Express API:
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Coder-Blue/server-gemini-zircon/blob/main/LICENSE)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 
 ## Gói cần thiết
 - NodeJS: 18+ - tải tại đây: https://nodejs.org/en/download
