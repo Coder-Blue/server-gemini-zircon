@@ -10,9 +10,9 @@
 - Viết bằng JavaScript thuần với framework ExpressJS và Google Gemini API để mang đến cho Zircon khả năng phản hồi câu hỏi theo thời gian thực thông qua giao tiếp HTTP.
 
 ## Giải thích cơ chế cơ bản
-- Zircon sẽ giao tiếp thông qua lệnh fetch với máy chủ http://localhost:3080 (*bạn có thể thay đổi PORT nếu bạn tải repository này về*). Với ví dụ ở đây, đầu vào là `chat` của https://github.com/Coder-Blue/zircon-app-op.git 
+- Server Zircon sẽ giao tiếp thông qua lệnh fetch với máy chủ http://localhost:3080 (*bạn có thể thay đổi PORT nếu bạn tải repository này về*). Với ví dụ ở đây, đầu vào là `chat` của https://github.com/Coder-Blue/zircon-app-op.git 
 
-- Zircon sẽ nhận lệnh `GET` rồi trả ra một kết quả JSON để trả lời `chat` của người dùng thông qua các tác vụ của Google Gemnini API.
+- Server Zircon sẽ nhận lệnh `GET` rồi trả ra một kết quả JSON để trả lời `chat` của người dùng thông qua các tác vụ của Google Gemnini API/Google Generative AI.
 
 - Google Gemini API là một API miễn phí nếu bạn sử dụng phiên bản `gemini-1.0-pro`. Nếu bạn ở vùng quốc gia và lãnh thổ khác, hãy cân nhắc mình nằm trong vùng hỗ trợ, bằng không bạn sẽ phải sử dụng Google Vertex AI để thay thế.
 
